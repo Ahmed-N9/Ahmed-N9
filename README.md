@@ -1,16 +1,20 @@
-### Hi there 👋
+# About Classroom
+![](https://1000logos.net/wp-content/uploads/2021/08/Google-Classroom-Logo.jpg)
+Thats google classroom heres a link to it
+[Google Classroom](https://classroom.google.com/h)
 
-<!--
-**Ahmed-N9/Ahmed-N9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+*I use google classroom to study I really do reccomend it I use it for my favorite subject computer science*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Heres a list of all my classes
+- IM2
+-  English
+-   Physics
+-   PE
+
+| Class        | To do         | Missing |
+| -------------|:-------------:| ------: |
+| Math         | L6 homework   | None    |
+| English      | Essay         | Read    |
+| PE           | Swimming      |   None  |    
+   
