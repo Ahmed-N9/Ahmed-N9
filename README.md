@@ -18,4 +18,4 @@ Heres a list of all my classes
 | English      | Essay         | Read    |
 | PE           | Swimming      |   None  |    
    
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pl-tBjAM9g4" target="_blank"><img src="http://img.youtube.com/vi/pl-tBjAM9g4/0.jpg" alt="Classroom youtube video" width="240" height="180" border="10" /></a>
+[![Classroom video](http://img.youtube.com/vi/pl-tBjAM9g4/0.jpg)](http://www.youtube.com/watch?v=pl-tBjAM9g4)
